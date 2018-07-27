@@ -24,4 +24,4 @@ version:          1.0.0
 github:
   repo:           https://github.com/poole/lanyon
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
